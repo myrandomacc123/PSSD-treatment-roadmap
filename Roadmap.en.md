@@ -54,3 +54,13 @@ https://www.reddit.com/r/PSSD/
 ### 9. Donations for research and other needs
 
 List here all the research that requires donations and ways to donate. Take into account that currently, in some countries, Visa does not work (Russia), and making a donation through Visa is problematic.
+
+### 10. Develop mobile apps, PWA, sites
+
+(1) It seems good to have mobile app where patient can share their symptoms and so on (anonymously). This can be **voice interface** to simple interaction with the app.
+Then this (anonymous) data can be used to collect more general symtoms of PSSD. Also we can get absolute count of users faced with PSSD (may be this is unusful info :))
+Instead of native mobile app it can be ReactNative app or event just React or Angular PWA app
+
+(2) It seems to good to have sites maybe based on google forms where patient also can share some info for stats
+
+(3) Maybe it's usefull to have such mobile app: a patient follows a certain treatment plan, marking their actions in a **calendar by date** (exercise, diet, medication, supplements, etc.) and can **share their treatment** with others directly along with checkpoints (dates) showing what was done and when, so that others can try it as well (on their risk). Also you can like/dislike this treatment to get some very basic ranking of all treatments.
