@@ -1,5 +1,8 @@
-# General
+# THE GOAL OF THIS DOCUMENT
+The goal is to create some central hub of usefull info about current state of PSSD and treatment.
+Maybe to have separate pssdwiki.org site based on WikiMedia engine (like Wikipedia) is better from orzanization point of view.
 
+# General
 PSSD is a potentially significant problem for people taking psychotropic medications, such as: antidepressants, antipsychotics, and others. Formally, this term means Post-SSRI sexual dysfunction [Post-SSRI sexual dysfunction](https://nl.wikipedia.org/wiki/Post-SSRI_sexual_dysfunction).
 
 However, currently, it encompasses a broader range of issues: sexual dysfunction, anhedonia, loss of motivation, cognitive impairment (brain fog, decreased overall intelligence, etc.)[add links]
