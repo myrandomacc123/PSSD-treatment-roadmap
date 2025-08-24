@@ -1,5 +1,8 @@
 # THE GOAL OF THIS DOCUMENT
-The goal is to create some central hub of usefull info about current state of PSSD and treatment.
+**Problem:** Currently we have several websites dedicated to PSSD (reddit, pssdforum.org, pssdnetwork.org and so on), but there is no central hub about PSSD.
+Also the problem of reddit.com/r/PSSD/ for example is that this is place where people share their stories and these stories repeat themselves many times. For me, sitting on this subreddit constantly is going down to negative without any progress and **real** steps to help with PSSD.
+
+**The goal** is to create some central hub of usefull and **CHECKED** info (seems that we need to have some moderators from pool of experts) about current state of PSSD and treatment.
 Maybe to have separate pssdwiki.org site based on WikiMedia engine (like Wikipedia) is better from orzanization point of view.
 
 # General
